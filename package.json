@@ -1,0 +1,17 @@
+{
+  "name": "ajx-model",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "git@github.com:gitaman-design/ajx-model",
+  "author": "Aman Jakhar",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/react": "^17.0.0",
+    "typescript": "^4.1.3"
+  }
+}
